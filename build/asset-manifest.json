@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/e-commerce/static/css/main.e6c13ad2.css",
+    "main.js": "/e-commerce/static/js/main.3f3ab662.js",
+    "static/js/787.46493d11.chunk.js": "/e-commerce/static/js/787.46493d11.chunk.js",
+    "static/media/kinder bueno.jpg": "/e-commerce/static/media/kinder bueno.b822940f86943138d279.jpg",
+    "static/media/prod_img-3394663_05053827101066_a1l1..jpg_j.webp": "/e-commerce/static/media/prod_img-3394663_05053827101066_a1l1..jpg_j.d38f46ceb95ff0b8787b.webp",
+    "static/media/boite de nutella.jpg": "/e-commerce/static/media/boite de nutella.d2f22404ab90d48e0807.jpg",
+    "index.html": "/e-commerce/index.html",
+    "main.e6c13ad2.css.map": "/e-commerce/static/css/main.e6c13ad2.css.map",
+    "main.3f3ab662.js.map": "/e-commerce/static/js/main.3f3ab662.js.map",
+    "787.46493d11.chunk.js.map": "/e-commerce/static/js/787.46493d11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.3f3ab662.js"
+  ]
+}
